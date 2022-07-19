@@ -6,8 +6,7 @@ It's a pleasure to meet you, I'm Murilo { MullerHub } 👋😄
 - [x] Web development 👨‍🎓
 - [x] Focused on FullStack development 👨‍💻
 - [x] Evolving in Node.js, React.js, Back-end, API's and more... 🧠
-
-#### - [x] Looking for the first job as a developer 🤞
+- [x] Looking for the first job as a developer 🤞
 
 ## 💻 Tech Stack:
 
