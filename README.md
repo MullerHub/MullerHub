@@ -38,3 +38,11 @@ It's a pleasure to meet you, I'm Murilo { MullerHub } 👋😄
 <a href="https://www.github.com/mullerhub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="20"></a>&nbsp;
 
 <img align="left" src="https://profile-counter.glitch.me/mullerhub/count.svg?"  />
+
+<br>  <br/>
+
+[![Muller-hub's github stats](https://github-readme-stats.vercel.app/api?username=mullerhub&include_all_commits=true&theme=dark&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/mullerhub)
+
+
+[![MullerHub Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mullerhub&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@mullerhub)
+
