@@ -1,12 +1,19 @@
-## Welcome 🤙
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</div>
+<br><br>
 
-It's a pleasure to meet you, I'm Murilo { MullerHub } 👋😄
+  <img align = "right" width = "450px"  src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
+  <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
+
+It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> 👋😄 
 
 - [x] From Brazil 📍
 - [x] Web development 👨‍🎓
 - [x] Focused on FullStack development 👨‍💻
 - [x] Evolving in Node.js, React.js, Back-end, API's and more... 🧠
 - [x] Looking for the first job as a developer 🤞
+<br>
 
 ## 💻 Tech Stack:
 
@@ -19,6 +26,9 @@ It's a pleasure to meet you, I'm Murilo { MullerHub } 👋😄
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="Windows logo"   />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="Virtual Studio code logo" />
 </span>
+<br>
+<br>
+<br>
 
 ## 🤓 Studies Stack:
 
