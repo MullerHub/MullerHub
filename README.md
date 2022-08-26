@@ -51,16 +51,9 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> 👋�
 
 <br>  <br/>
 
-[![Muller-hub's github stats](https://github-readme-stats.vercel.app/api?username=mullerhub&include_all_commits=true&theme=dark&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/mullerhub)
-
-
-[![MullerHub Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mullerhub&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@mullerhub)
-
-
-<h1> ⤵🔽 Estatisticas de desenvolvimento ⤵🔽 {testando} </h1>
 
 <div align="center">
   <a href="https://github.com/mullerhub">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mullerhub&show_icons=true&theme=tokyonight"/> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mullerhub&layout=compact&theme=tokyonight"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=mullerhub&show_icons=true&theme=tokyonight"/> 
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mullerhub&layout=compact&theme=tokyonight"/>
 </div>
