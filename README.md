@@ -55,5 +55,5 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> ğŸ‘‹ğŸ˜
 <div align="center">
   <a href="https://github.com/mullerhub">
   <img height="190px" src="https://github-readme-stats.vercel.app/api?username=mullerhub&show_icons=true&theme=tokyonight"/> 
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mullerhub&layout=compact&theme=tokyonight"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mullerhub&layout=compact&theme=tokyonight"/>
 </div>
