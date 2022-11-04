@@ -49,12 +49,7 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> ðŸ‘‹ðŸ˜
 
 <img align="left" src="https://profile-counter.glitch.me/mullerhub/count.svg?"  />
 
-<br>
-[![@mullerhub's Holopin board](https://holopin.me/mullerhub)](https://holopin.io/@mullerhub)
-
-
-<br/>
-
+<br> <br/>
 
 <div align="center">
   <a href="https://github.com/mullerhub">
@@ -62,3 +57,5 @@ It's a pleasure to meet you, <strong> I'm Murilo { MullerHub } </strong> ðŸ‘‹ðŸ˜
     <br>
   <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mullerhub&layout=compact&theme=tokyonight"/>
 </div>
+
+  [![@mullerhub's Holopin board](https://holopin.me/mullerhub)](https://holopin.io/@mullerhub)
